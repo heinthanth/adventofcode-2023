@@ -1,5 +1,5 @@
 module Main where
-import AOC2_2 (aoc2_2_Main)
+import AOC4_2 (aoc4_2_Main)
 
 main :: IO ()
-main = aoc2_2_Main
+main = aoc4_2_Main
