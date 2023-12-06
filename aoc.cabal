@@ -6,7 +6,7 @@ maintainer:         me@heinthanth.com
 
 executable aoc
     main-is:          Main.hs
-    other-modules: AOC1_1, AOC1_2, AOC2_1, AOC2_2, AOC4_1, AOC4_2
+    other-modules:    AOC1_1, AOC1_2, AOC2_1, AOC2_2, AOC4_1, AOC4_2, AOC6_1, AOC6_2
     build-depends:    base, text, flow
     hs-source-dirs:   app
     default-language: Haskell2010
